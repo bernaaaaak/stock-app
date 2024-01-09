@@ -21,3 +21,4 @@ npm install veya yarn
 ## Uygulamanın Canlı Ornegi:
 
 https://stock-new.netlify.app/
+# stock-app
